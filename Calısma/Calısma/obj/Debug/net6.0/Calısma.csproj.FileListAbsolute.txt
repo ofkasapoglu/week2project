@@ -1,0 +1,15 @@
+C:\Users\ÖMER FARUK\source\repos\Calısma\Calısma\bin\Debug\net6.0\Calısma.exe
+C:\Users\ÖMER FARUK\source\repos\Calısma\Calısma\bin\Debug\net6.0\Calısma.deps.json
+C:\Users\ÖMER FARUK\source\repos\Calısma\Calısma\bin\Debug\net6.0\Calısma.runtimeconfig.json
+C:\Users\ÖMER FARUK\source\repos\Calısma\Calısma\bin\Debug\net6.0\Calısma.dll
+C:\Users\ÖMER FARUK\source\repos\Calısma\Calısma\bin\Debug\net6.0\Calısma.pdb
+C:\Users\ÖMER FARUK\source\repos\Calısma\Calısma\obj\Debug\net6.0\Calısma.csproj.AssemblyReference.cache
+C:\Users\ÖMER FARUK\source\repos\Calısma\Calısma\obj\Debug\net6.0\Calısma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÖMER FARUK\source\repos\Calısma\Calısma\obj\Debug\net6.0\Calısma.AssemblyInfoInputs.cache
+C:\Users\ÖMER FARUK\source\repos\Calısma\Calısma\obj\Debug\net6.0\Calısma.AssemblyInfo.cs
+C:\Users\ÖMER FARUK\source\repos\Calısma\Calısma\obj\Debug\net6.0\Calısma.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER FARUK\source\repos\Calısma\Calısma\obj\Debug\net6.0\Calısma.dll
+C:\Users\ÖMER FARUK\source\repos\Calısma\Calısma\obj\Debug\net6.0\refint\Calısma.dll
+C:\Users\ÖMER FARUK\source\repos\Calısma\Calısma\obj\Debug\net6.0\Calısma.pdb
+C:\Users\ÖMER FARUK\source\repos\Calısma\Calısma\obj\Debug\net6.0\Calısma.genruntimeconfig.cache
+C:\Users\ÖMER FARUK\source\repos\Calısma\Calısma\obj\Debug\net6.0\ref\Calısma.dll
